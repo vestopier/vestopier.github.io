@@ -1,0 +1,17 @@
+title: "Vicente ESTOPIER CASTILLO"
+description: "PhD Student | Medical Image Processing & Statistical Modeling"
+baseurl: "" # leave empty for root site
+url: "https://vestopier.github.io"
+theme: minima # simple default theme for now
+author:
+  name: "Vicente ESTOPIER CASTILLO"
+  email: 
+    - "vicente.estopier-castillo@univ-grenoble-alpes.fr"
+    - "vicente.estopier-castillo@inria.fr"
+    - "vicente.estopier-castillo@inserm.fr"
+    - "ve.estopier@gmail.com"
+  links:
+    - label: LinkedIn
+      url: https://www.linkedin.com/in/vicente-estopier    
+    - label: GitHub
+      url: https://github.com/vestopier
